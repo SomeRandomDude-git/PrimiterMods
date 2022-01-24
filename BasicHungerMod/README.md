@@ -4,3 +4,5 @@ A mod for Primiter that acts as a rudimentary hunger/fatigue system.
 
 Slowly over time you will lose max HP to a minimum of 500.
 Eating food will raise your max HP up to 2000.
+
+Requires [MelonLoader](https://github.com/LavaGang/MelonLoader)
