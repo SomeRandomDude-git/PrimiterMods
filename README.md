@@ -1,6 +1,4 @@
-PrimiterMods
-
-Mods for Primiter
+Primiter Mods
 
 
 
